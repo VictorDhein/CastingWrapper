@@ -23,3 +23,6 @@ public class Variaveis {
     short s = b;
 
 }
+
+
+
